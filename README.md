@@ -1,11 +1,12 @@
-#Práctica | Crear un Blockchain con node.js
+# Project Title
+Práctica | Crear un Blockchain con node.js
 
 Universidad Autónoma de Chihuahua.
 Ingeniero en ciencias de la computación.
 Desarrollo basado en plataformas 6CC2.
 Gabriel Jesús Bustillos Fierro (353267).
 
-##Instrucciones
+## Getting Started
 Vamos a aplicar nuestros conocimientos adquiridos de Javascript y  de Node.Js para programar un blockchain, para esto sigue los siguie>
 
 1) Genera una clase Block como modelo con los siguientes atributos:
