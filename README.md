@@ -7,7 +7,7 @@ Desarrollo basado en plataformas 6CC2.
 Gabriel Jesús Bustillos Fierro (353267).
 
 ## Getting Started
-Vamos a aplicar nuestros conocimientos adquiridos de Javascript y  de Node.Js para programar un blockchain, para esto sigue los siguie>
+Vamos a aplicar nuestros conocimientos adquiridos de Javascript y  de Node.Js para programar un blockchain, para esto sigue los siguientes pasos:
 
 1) Genera una clase Block como modelo con los siguientes atributos:
 
